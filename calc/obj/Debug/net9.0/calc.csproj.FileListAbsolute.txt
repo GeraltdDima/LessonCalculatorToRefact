@@ -1,0 +1,14 @@
+/mnt/c/Users/Owner/Desktop/Projects/DotnetProjects/LessonProjects/LessonCalculatorToRefact/calc/obj/Debug/net9.0/calc.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/Owner/Desktop/Projects/DotnetProjects/LessonProjects/LessonCalculatorToRefact/calc/obj/Debug/net9.0/calc.AssemblyInfoInputs.cache
+/mnt/c/Users/Owner/Desktop/Projects/DotnetProjects/LessonProjects/LessonCalculatorToRefact/calc/obj/Debug/net9.0/calc.AssemblyInfo.cs
+/mnt/c/Users/Owner/Desktop/Projects/DotnetProjects/LessonProjects/LessonCalculatorToRefact/calc/obj/Debug/net9.0/calc.csproj.CoreCompileInputs.cache
+/mnt/c/Users/Owner/Desktop/Projects/DotnetProjects/LessonProjects/LessonCalculatorToRefact/calc/bin/Debug/net9.0/calc
+/mnt/c/Users/Owner/Desktop/Projects/DotnetProjects/LessonProjects/LessonCalculatorToRefact/calc/bin/Debug/net9.0/calc.deps.json
+/mnt/c/Users/Owner/Desktop/Projects/DotnetProjects/LessonProjects/LessonCalculatorToRefact/calc/bin/Debug/net9.0/calc.runtimeconfig.json
+/mnt/c/Users/Owner/Desktop/Projects/DotnetProjects/LessonProjects/LessonCalculatorToRefact/calc/bin/Debug/net9.0/calc.dll
+/mnt/c/Users/Owner/Desktop/Projects/DotnetProjects/LessonProjects/LessonCalculatorToRefact/calc/bin/Debug/net9.0/calc.pdb
+/mnt/c/Users/Owner/Desktop/Projects/DotnetProjects/LessonProjects/LessonCalculatorToRefact/calc/obj/Debug/net9.0/calc.dll
+/mnt/c/Users/Owner/Desktop/Projects/DotnetProjects/LessonProjects/LessonCalculatorToRefact/calc/obj/Debug/net9.0/refint/calc.dll
+/mnt/c/Users/Owner/Desktop/Projects/DotnetProjects/LessonProjects/LessonCalculatorToRefact/calc/obj/Debug/net9.0/calc.pdb
+/mnt/c/Users/Owner/Desktop/Projects/DotnetProjects/LessonProjects/LessonCalculatorToRefact/calc/obj/Debug/net9.0/calc.genruntimeconfig.cache
+/mnt/c/Users/Owner/Desktop/Projects/DotnetProjects/LessonProjects/LessonCalculatorToRefact/calc/obj/Debug/net9.0/ref/calc.dll
